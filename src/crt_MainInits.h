@@ -12,7 +12,7 @@ namespace crt
     public:
         MainInits()
         {
-            esp_timer_init();   // Allow creation and use of microsecond timers.
+            // esp_timer_init();   // Allow creation and use of microsecond timers.
         }
     };
 };
